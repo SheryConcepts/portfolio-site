@@ -14,7 +14,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={roboto_mono.className}>
       <body className="bg-s-8 px-8 pt-8">{children}</body>
-      <div className="h-full w-full bg-s-8 px-8 pt-8"></div>
+      {/* <div className="h-full w-full bg-s-8 px-8 pt-8"></div> */}
     </html>
   );
 }

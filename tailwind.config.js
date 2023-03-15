@@ -33,7 +33,7 @@ module.exports = {
         "s-6": "#d21e5a",
         "s-0": "#470018",
       },
-      fontSize: { p: "1.125rem", h3: "1.5rem", h2: "2.5rem", h1: "3.5rem" },
+      // fontSize: { p: "1.125rem", h3: "1.5rem", h2: "2.5rem", h1: "3.5rem" },
       fontFamily: { "roboto-mono": "var(--font-roboto-mono)" },
       borderRadius: {
         none: "0",
